@@ -1,5 +1,5 @@
 # Using Fast JSON API
-
+ 
 ## Learning Goals
 
 - Introduce the Fast JSON API gem
